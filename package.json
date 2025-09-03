@@ -7,7 +7,7 @@
     "start": "node src/server.js",
     "lint": "eslint .",
     "test": "node ./node_modules/jest/bin/jest.js",
-    "build": "echo 'Simulating the build step"
+    "build": "echo 'Simulating the build step'"
   },
   "devDependencies": {
     "@eslint/js": "^9.34.0",
