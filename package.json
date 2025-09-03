@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node src/server.js",
     "lint": "eslint .",
-    "test": "jest",
+    "test": "node ./node_modules/jest/bin/jest.js",
     "build": "echo 'Simulating the build step"
   },
   "devDependencies": {
