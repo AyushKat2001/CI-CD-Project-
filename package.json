@@ -1,0 +1,22 @@
+{
+  "name": "ci-cd-project",
+  "version": "1.0.0",
+  "description": "CI-CD Project",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "lint": "eslint .",
+    "test": "jest",
+    "build": "echo 'Simulating the build step"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.34.0",
+    "eslint": "^8.57.1",
+    "globals": "^16.3.0",
+    "jest": "^29.7.0",
+    "supertest": "^6.3.4"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
