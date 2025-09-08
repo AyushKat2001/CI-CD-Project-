@@ -1,7 +1,7 @@
 ## CI-CD Project using Express API and Docker
 
 🚀 Overview
-This project is a Node.js Express API with a full CI/CD pipeline using GitHub Actions. It includes code linting, automated tests, and Docker deployment to DockerHub.
+- This project is a Node.js Express API with a full CI/CD pipeline using GitHub Actions. It includes code linting, automated tests, and Docker deployment to DockerHub.
 
 ✅ Features
 
